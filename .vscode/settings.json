@@ -1,0 +1,37 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "cSpell.words": [
+        "alipay",
+        "apicache",
+        "awesomecommerce",
+        "bacs",
+        "bancontact",
+        "becs",
+        "chmod",
+        "frameguard",
+        "giropay",
+        "gitlab",
+        "grabpay",
+        "hsts",
+        "interac",
+        "kroniak",
+        "livemode",
+        "mercadopago",
+        "middlewares",
+        "mkdir",
+        "NOREPLY",
+        "onetouch",
+        "oxxo",
+        "palmela",
+        "Prefetch",
+        "sequelize",
+        "sofort",
+        "Taggables",
+        "twilio",
+        "unionpay",
+        "webpush"
+    ]
+}
